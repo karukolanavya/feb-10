@@ -1,0 +1,17 @@
+num=int(input('enter number:')) 
+if num>0:
+       print('number is positive')
+else:
+       print('number is negative')
+       
+output 1
+
+enter number:8
+number is positive
+> 
+
+output 2
+
+enter number:-59
+number is negative
+> 
